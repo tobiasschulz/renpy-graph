@@ -1,0 +1,24 @@
+{
+  "name": "renpy-graph",
+  "version": "0.0.0",
+  "description": "A tool for statically analysing the branching structure of Ren'Py games",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/robotlolita/renpy-graph"
+  },
+  "keywords": [
+    "renpy",
+    "static-analysis",
+    "graph"
+  ],
+  "author": "Quildreen Motta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/robotlolita/renpy-graph/issues"
+  },
+  "homepage": "https://github.com/robotlolita/renpy-graph"
+}
